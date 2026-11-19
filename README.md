@@ -4,7 +4,7 @@
   
   [┆𝒜ᴛᴀʙᴏᴏᴋ ★](https://mero.atabook.org/) [𝒮ᴛʀᴀᴡpage┆](https://patatescipsi.straw.page/) 
   <br>
-<div align="right">
+<div align="left">
  𝚊𝚗𝚢/𝚊𝚕𝚕, 𝚒 𝚍𝚘 𝚗𝚘𝚝 𝚖𝚒𝚗𝚍!
   <br>
  (𝘵𝘩𝘰𝘶𝘨𝘩 𝘪 𝘱𝘳𝘦𝘧𝘦𝘳 𝘵𝘩𝘦𝘺/𝘵𝘩𝘦𝘮) 
@@ -14,7 +14,7 @@
 [![Hits](https://hits.sh/github.com/patatescipsi/hits.svg?style=for-the-badge&label=%E2%9D%A4%EF%B8%8E&color=000000&labelColor=fafafa)](https://hits.sh/github.com/patatescipsi/hits/)
   <br>
   <br>
-<img alt="image" src="https://github.com/user-attachments/assets/e11903d9-beff-416b-9077-a176a71fc575" align="left" /> <img  alt="image" src="https://github.com/user-attachments/assets/3efd0802-c588-4826-8cf4-9ea19857f2ab" />
+<img  alt="image" src="https://github.com/user-attachments/assets/3efd0802-c588-4826-8cf4-9ea19857f2ab" align="right" />
 
 <div align="center">
 <img alt="image" src="https://github.com/user-attachments/assets/21003af1-a596-4eaa-a758-c98a815dff27" />
