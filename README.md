@@ -14,7 +14,7 @@
 [![Hits](https://hits.sh/github.com/patatescipsi/hits.svg?style=for-the-badge&label=%E2%9D%A4%EF%B8%8E&color=000000&labelColor=fafafa)](https://hits.sh/github.com/patatescipsi/hits/)
   <br>
   <br>
-<img alt="image" src="https://github.com/user-attachments/assets/160b3c1b-a864-47db-8252-f7e485c9c0db" align="left" /> <img  alt="image" src="https://github.com/user-attachments/assets/3efd0802-c588-4826-8cf4-9ea19857f2ab" />
+<img alt="image" src="https://github.com/user-attachments/assets/e11903d9-beff-416b-9077-a176a71fc575" align="left" /> <img  alt="image" src="https://github.com/user-attachments/assets/3efd0802-c588-4826-8cf4-9ea19857f2ab" />
 
 <div align="center">
 <img alt="image" src="https://github.com/user-attachments/assets/21003af1-a596-4eaa-a758-c98a815dff27" />
