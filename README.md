@@ -14,7 +14,8 @@
 [![Hits](https://hits.sh/github.com/patatescipsi/hits.svg?style=for-the-badge&label=%E2%9D%A4%EF%B8%8E&color=000000&labelColor=fafafa)](https://hits.sh/github.com/patatescipsi/hits/)
   <br>
   <br>
-<img alt="image" src="https://github.com/user-attachments/assets/160b3c1b-a864-47db-8252-f7e485c9c0db" align="left" /> <img alt="image" src="https://github.com/user-attachments/assets/be8dae75-faa4-4f73-9431-1b0af809d372" />
+<img alt="image" src="https://github.com/user-attachments/assets/160b3c1b-a864-47db-8252-f7e485c9c0db" align="left" /> <img  alt="image" src="https://github.com/user-attachments/assets/3efd0802-c588-4826-8cf4-9ea19857f2ab" />
+
 <div align="center">
 <img alt="image" src="https://github.com/user-attachments/assets/21003af1-a596-4eaa-a758-c98a815dff27" />
 <br>
@@ -41,7 +42,7 @@
 <BR> ✗﹕ 𝘐 𝘈𝘔 𝘈 𝘊𝘖𝘔𝘔𝘜𝘕𝘐𝘚𝘛. 𝘪𝘧 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘨𝘰𝘪𝘯𝘨 𝘵𝘰 𝘣𝘰𝘵𝘩𝘦𝘳 𝘺𝘰𝘶...
 
 <div align="center">
-  <img alt="image" src="https://github.com/user-attachments/assets/bb25cb95-087b-4213-a848-d60ec01bf64d" /> <img alt="image" src="https://github.com/user-attachments/assets/5a741f8d-58de-438a-9dad-b75ec825195d" />
+<img alt="image" src="https://github.com/user-attachments/assets/b11b3c02-1720-4bb0-ad56-49892a31bb9b" /> <img alt="image" src="https://github.com/user-attachments/assets/5a741f8d-58de-438a-9dad-b75ec825195d" />
 
 
   [┆𝒜ᴛᴀʙᴏᴏᴋ ★](https://mero.atabook.org/) [𝒮ᴛʀᴀᴡpage┆](https://patatescipsi.straw.page/) 
